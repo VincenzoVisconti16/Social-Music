@@ -9,7 +9,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Model",
+			"name": "InsertSamplePost + Login",
 			"ownedElements": [
 				{
 					"_type": "UMLActivity",
@@ -25,7 +25,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFuS0hsNTWX/vw="
 							},
-							"name": "ActivityDiagram1",
+							"name": "InsertSamplePost + Login",
 							"ownedViews": [
 								{
 									"_type": "UMLControlNodeView",
@@ -1424,11 +1424,11 @@
 														"$ref": "AAAAAAFuS2Mw5zjXtmY="
 													},
 													"font": "Arial;13;1",
-													"left": 357,
+													"left": 381,
 													"top": 551,
-													"width": 204.2294921875,
+													"width": 159,
 													"height": 13,
-													"text": "Verify Text message is not empty"
+													"text": "Verify Text message"
 												},
 												{
 													"_type": "LabelView",
@@ -1459,9 +1459,9 @@
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 352,
+											"left": 376,
 											"top": 544,
-											"width": 214.2294921875,
+											"width": 169,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFuS2Mw5zjYnSE="
@@ -1479,9 +1479,9 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 352,
+									"left": 376,
 									"top": 544,
-									"width": 214.2294921875,
+									"width": 169,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAFuS2Mw5zjXtmY="
@@ -1526,11 +1526,11 @@
 														"$ref": "AAAAAAFuS2Qx4zj1QcE="
 													},
 													"font": "Arial;13;1",
-													"left": 597,
+													"left": 621,
 													"top": 559,
-													"width": 194.33984375,
+													"width": 151,
 													"height": 13,
-													"text": "Verify sample field is not empty"
+													"text": "Verify sample field"
 												},
 												{
 													"_type": "LabelView",
@@ -1561,9 +1561,9 @@
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 592,
+											"left": 616,
 											"top": 552,
-											"width": 204.33984375,
+											"width": 161,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFuS2Qx4zj2P/s="
@@ -1581,9 +1581,9 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 592,
+									"left": 616,
 									"top": 552,
-									"width": 204.33984375,
+									"width": 161,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAFuS2Qx4zj1QcE="
@@ -2426,9 +2426,9 @@
 												"$ref": "AAAAAAFuS3+qCToAz1Y="
 											},
 											"font": "Arial;13;0",
-											"left": 423,
+											"left": 389,
 											"top": 640,
-											"width": 132.21533203125,
+											"width": 200.84619140625,
 											"height": 13,
 											"alpha": -1.6475698798310887,
 											"distance": 5.656854249492381,
@@ -2436,7 +2436,7 @@
 												"$ref": "AAAAAAFuS3+qCToB0Xc="
 											},
 											"edgePosition": 1,
-											"text": "Text message is empty"
+											"text": "Text message is empty or incorrect"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2616,7 +2616,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 520,
+											"left": 521,
 											"top": 579,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -2637,7 +2637,7 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 528,
+											"left": 529,
 											"top": 566,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -2658,7 +2658,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 505,
+											"left": 506,
 											"top": 604,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -2677,7 +2677,7 @@
 										"$ref": "AAAAAAFuS2Mw5zjWDKY="
 									},
 									"lineStyle": 1,
-									"points": "492:585;535:611",
+									"points": "494:585;535:611",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFuS4AhoToouXo="
@@ -2710,7 +2710,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 708,
+											"left": 709,
 											"top": 617,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -2731,7 +2731,7 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 723,
+											"left": 724,
 											"top": 617,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -2752,7 +2752,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 679,
+											"left": 680,
 											"top": 618,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -2771,7 +2771,7 @@
 										"$ref": "AAAAAAFuS2Qx4zj0B+Y="
 									},
 									"lineStyle": 1,
-									"points": "693:593;695:655",
+									"points": "696:593;695:655",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFuS4A2PTo5+oI="
@@ -2812,7 +2812,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 480,
-													"top": -80,
+													"top": -64,
 													"height": 13
 												},
 												{
@@ -2823,7 +2823,7 @@
 													},
 													"font": "Arial;13;1",
 													"left": 829,
-													"top": 655,
+													"top": 663,
 													"width": 237.70703125,
 													"height": 13,
 													"text": "Display error message on sample field"
@@ -2837,7 +2837,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 480,
-													"top": -80,
+													"top": -64,
 													"width": 187.4970703125,
 													"height": 13,
 													"text": "(from InsertSamplePost + Login)"
@@ -2851,14 +2851,14 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 480,
-													"top": -80,
+													"top": -64,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 824,
-											"top": 648,
+											"top": 656,
 											"width": 247.70703125,
 											"height": 25,
 											"stereotypeLabel": {
@@ -2878,7 +2878,7 @@
 									"font": "Arial;13;0",
 									"containerChangeable": true,
 									"left": 824,
-									"top": 648,
+									"top": 656,
 									"width": 247.70703125,
 									"height": 41,
 									"nameCompartment": {
@@ -2905,17 +2905,17 @@
 												"$ref": "AAAAAAFuS4Cebzpj2Cc="
 											},
 											"font": "Arial;13;0",
-											"left": 711,
-											"top": 645,
-											"width": 123.55078125,
+											"left": 687,
+											"top": 641,
+											"width": 192.181640625,
 											"height": 13,
-											"alpha": 1.4886422231957657,
-											"distance": 19.1049731745428,
+											"alpha": 1.1576166295540846,
+											"distance": 28.635642126552707,
 											"hostEdge": {
 												"$ref": "AAAAAAFuS4CebzpkPow="
 											},
 											"edgePosition": 1,
-											"text": "Sample field is empty"
+											"text": "Sample field is empty or incorrect"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2928,8 +2928,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 770,
-											"top": 635,
+											"left": 771,
+											"top": 637,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -2949,8 +2949,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 771,
-											"top": 679,
+											"left": 770,
+											"top": 681,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -2968,7 +2968,7 @@
 										"$ref": "AAAAAAFuS2mHsjlobEE="
 									},
 									"lineStyle": 1,
-									"points": "719:672;823:670",
+									"points": "719:672;823:674",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFuS4Cebzplf6g="
@@ -3062,7 +3062,7 @@
 										"$ref": "AAAAAAFuS4BSRDpKEmU="
 									},
 									"lineStyle": 1,
-									"points": "944:647;928:520;713:516",
+									"points": "944:655;928:520;713:516",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFuS4DrGDp4IJ0="
@@ -3316,7 +3316,7 @@
 												"$ref": "AAAAAAFuS4ROojrjGVc="
 											},
 											"edgePosition": 1,
-											"text": "Text message is not empty"
+											"text": "Text message is correct"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -3411,7 +3411,7 @@
 												"$ref": "AAAAAAFuS4Rhrzr07oo="
 											},
 											"edgePosition": 1,
-											"text": "Sample field is not empty"
+											"text": "Sample field is correct"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -9333,7 +9333,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 708,
+											"left": 710,
 											"top": 533,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -9354,7 +9354,7 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 723,
+											"left": 725,
 											"top": 533,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -9375,7 +9375,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 679,
+											"left": 681,
 											"top": 534,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -9394,7 +9394,7 @@
 										"$ref": "AAAAAAFuZKtKsfERgMs="
 									},
 									"lineStyle": 1,
-									"points": "695:529;694:551",
+									"points": "696:529;696:551",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFuZKx/8/EaFMw="
@@ -9553,7 +9553,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 470,
+											"left": 472,
 											"top": 524,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -9574,7 +9574,7 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 485,
+											"left": 487,
 											"top": 523,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -9595,7 +9595,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 441,
+											"left": 443,
 											"top": 527,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -9614,7 +9614,7 @@
 										"$ref": "AAAAAAFuZK5F2PFMlVA="
 									},
 									"lineStyle": 1,
-									"points": "456:521;457:543",
+									"points": "457:521;459:543",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFuZK8d5PFeT7E="
@@ -10244,7 +10244,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFuS0hsNTWX/vw="
 							},
-							"name": "Verify Text message is not empty"
+							"name": "Verify Text message"
 						},
 						{
 							"_type": "UMLAction",
@@ -10252,7 +10252,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFuS0hsNTWX/vw="
 							},
-							"name": "Verify sample field is not empty"
+							"name": "Verify sample field"
 						},
 						{
 							"_type": "UMLDecisionNode",
@@ -10774,7 +10774,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFuS0hsNTWX/vw="
 							},
-							"name": "Text message is empty",
+							"name": "Text message is empty or incorrect",
 							"source": {
 								"$ref": "AAAAAAFuS2mBcjlhG18="
 							},
@@ -10827,7 +10827,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFuS0hsNTWX/vw="
 							},
-							"name": "Sample field is empty",
+							"name": "Sample field is empty or incorrect",
 							"source": {
 								"$ref": "AAAAAAFuS2mHrzlmjss="
 							},
@@ -10867,7 +10867,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFuS0hsNTWX/vw="
 							},
-							"name": "Text message is not empty",
+							"name": "Text message is correct",
 							"source": {
 								"$ref": "AAAAAAFuS2mBcjlhG18="
 							},
@@ -10881,7 +10881,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFuS0hsNTWX/vw="
 							},
-							"name": "Sample field is not empty",
+							"name": "Sample field is correct",
 							"source": {
 								"$ref": "AAAAAAFuS2mHrzlmjss="
 							},
