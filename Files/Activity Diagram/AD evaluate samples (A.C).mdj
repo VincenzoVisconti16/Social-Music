@@ -5258,7 +5258,7 @@
 													"top": 293,
 													"width": 76.58447265625,
 													"height": 13,
-													"text": "timer 30 min"
+													"text": "timer 1 hour"
 												},
 												{
 													"_type": "LabelView",
@@ -5270,7 +5270,7 @@
 													"font": "Arial;13;0",
 													"left": 32,
 													"top": -16,
-													"width": 86.6708984375,
+													"width": 88,
 													"height": 13,
 													"text": "(from Activity1)"
 												},
@@ -5994,7 +5994,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFuWdULEYILOTU="
 							},
-							"name": "timer 30 min",
+							"name": "timer 1 hour",
 							"kind": "timeEvent"
 						},
 						{
