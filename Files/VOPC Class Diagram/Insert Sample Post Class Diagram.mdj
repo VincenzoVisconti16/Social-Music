@@ -882,7 +882,7 @@
 											"top": 45,
 											"width": 169.45703125,
 											"height": 13,
-											"text": "«entity»"
+											"text": "«actor»"
 										},
 										{
 											"_type": "LabelView",
@@ -3662,9 +3662,7 @@
 							}
 						}
 					],
-					"stereotype": {
-						"$ref": "AAAAAAFujblfwJxrbvE="
-					},
+					"stereotype": "actor",
 					"attributes": [
 						{
 							"_type": "UMLAttribute",
