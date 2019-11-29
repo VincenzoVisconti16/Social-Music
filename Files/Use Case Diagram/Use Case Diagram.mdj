@@ -12796,14 +12796,6 @@
 				},
 				{
 					"_type": "UMLUseCase",
-					"_id": "AAAAAAFuZWhRWgJqBcY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "UseCase8"
-				},
-				{
-					"_type": "UMLUseCase",
 					"_id": "AAAAAAFuZWhSpAKXnD4=",
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
@@ -13067,14 +13059,6 @@
 							}
 						}
 					]
-				},
-				{
-					"_type": "UMLUseCase",
-					"_id": "AAAAAAFuZWhb1QSGbBo=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "UseCase20"
 				},
 				{
 					"_type": "UMLUseCase",
