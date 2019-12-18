@@ -977,8 +977,8 @@
 								"$ref": "AAAAAAFusxlvYd4aRC4="
 							},
 							"font": "Arial;13;0",
-							"left": 1512,
-							"top": 584,
+							"left": 1160,
+							"top": 352,
 							"width": 185,
 							"height": 51,
 							"text": "verify fields // if one is empty or incorrect***, display error message"
@@ -1003,8 +1003,8 @@
 								"$ref": "AAAAAAFusxlvYd4aRC4="
 							},
 							"font": "Arial;13;0",
-							"left": 1208,
-							"top": 344,
+							"left": 1224,
+							"top": 208,
 							"width": 201,
 							"height": 83,
 							"text": "click submit post\n(if verifies are all ok)\ndisplay message \"Your sample post is inserted successfully\". \n"
@@ -2927,8 +2927,8 @@
 								"$ref": "AAAAAAFusxlvYd4aRC4="
 							},
 							"font": "Arial;13;0",
-							"left": 456,
-							"top": 656,
+							"left": 656,
+							"top": 648,
 							"width": 129,
 							"height": 41,
 							"text": "click one post\ndisplay post clicked"
@@ -2940,8 +2940,8 @@
 								"$ref": "AAAAAAFusxlvYd4aRC4="
 							},
 							"font": "Arial;13;0",
-							"left": 680,
-							"top": 640,
+							"left": 376,
+							"top": 632,
 							"width": 217,
 							"height": 57,
 							"text": "click back \n[clickedOnBackBtn == true]\ndisplay my sample post list page"
